@@ -1,0 +1,20 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Brand",
+        "value": "Fender"
+      },
+      {
+        "trait_type": "Model",
+        "value": "Telecaster"
+      },
+      {
+        "trait_type": "Body color",
+        "value": "Black"
+      }
+    ],
+    "description": "The world's most adorable and sensitive pup.",
+    "image": "ipfs://QmPmRcktnwiqkQxckQ7z7wFHrAZNZbFWM1xcoztPj7AjAE",
+    "name": "J5T"
+  }
+  
