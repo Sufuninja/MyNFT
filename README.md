@@ -9,3 +9,7 @@ npm install
 npx hardhat compile
 npx hardhat --network goerli run scripts/deploy.js
 ```
+Upload file(image) and file(metadata) to [Pinata](https://pinata.cloud)
+```
+node ./scripts/mint-nft.js
+```
