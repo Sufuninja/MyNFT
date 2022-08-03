@@ -1,7 +1,7 @@
 {
   "name": "my-nft-tut",
   "version": "1.0.0",
-  "description": "Etherum.org tut on how ot write and deploy an nft.",
+  "description": "Etherum.org tut on how to write and deploy an nft.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
